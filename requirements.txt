@@ -3,5 +3,5 @@ flask
 pandas
 matplotlib
 gunicorn
-
+-e .
 
