@@ -2,6 +2,7 @@ numpy
 flask
 pandas
 sklearn
+PyYAML
 matplotlib
 gunicorn
 -e .
